@@ -1,0 +1,23 @@
+p {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p#title {
+    font-size:25px;
+    font-weight: bold;
+}
+
+article {
+    margin-top:50px;
+}
+
+p#whatis {
+    font-size:25px;
+    font-style:italic;
+}
+
+p#webtekis {
+    font-size:20px;
+}

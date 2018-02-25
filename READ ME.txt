@@ -1,0 +1,11 @@
+Main Webpage == Index.html
+
+
+This is a test design for the webtek project.
+
+The search bar is not yet working, it suppose to take a keyword, then the program will search the word in the html files, then post the links related to the keyword that was searched by the user.
+MIDTERMS web page designs and FINALS web page designs are similar to the PRELIMS web page design.
+
+
+
+Additional styles to be followed.
